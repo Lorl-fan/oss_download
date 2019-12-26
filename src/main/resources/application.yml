@@ -1,0 +1,15 @@
+#通用属性
+endpoint: url
+accessKeyId: key
+accessKeySecret: KeySecret
+bucketName: bucketName
+localFileDir: D:/test/
+ossDownLoadLog: 1.txt
+
+#运行端口
+server:
+  port: 7777
+#日志级别
+logging:
+  level:
+    root: info
